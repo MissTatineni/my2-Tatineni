@@ -14,3 +14,12 @@ My hobbies are *listening to music, exploring new places*. Of all my hobbies, tr
 |Tennis|Cardiovascualr fitness|4-6 hours|
 |Hiking|Enjoy Nature|5-7 hours|
 |Yoga|Flexibility|2-4 hours|
+
+---
+## My favorite quotes
+ 
+ >To be or not to be, that is the question - *William ShakeSpeare*
+
+ >To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment - *Ralph Waldo Emerson*
+
+ 
