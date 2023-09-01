@@ -24,3 +24,7 @@ Of all the beaches in Gokarna, **Om beach** is my favorite place to be. It holds
     + Chicken Majestic
     + Schezwan Chicken
 
+    [MyStats](MyStats.md)
+
+
+
