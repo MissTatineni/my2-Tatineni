@@ -22,4 +22,34 @@ My hobbies are *listening to music, exploring new places*. Of all my hobbies, tr
 
  >To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment - *Ralph Waldo Emerson*
 
- 
+ ---
+```
+for ($i = 0; $i < count($nt); $i++)
+{
+    echo $nt[2][$i];
+    echo "<br />";
+}
+```
+[StackOverflowArticle](https://stackoverflow.com/questions/16928841/php-for-loop-from-array-stops-after-3-loops)
+
+``````
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+```
+for ($i = 0; $i < count($nt); $i++)
+{
+    echo $nt[2][$i];
+    echo "<br />";
+}
+```
+[Click here to refer StackOverflowArticle](https://stackoverflow.com/questions/16928841/php-for-loop-from-array-stops-after-3-loops)
+
+```
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+```
+
+[Click here for CSS Tricks source](https://css-tricks.com/snippets/css/system-font-stack/)
