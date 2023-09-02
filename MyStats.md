@@ -27,16 +27,19 @@ Sports are not only a source of entertainment and recreation but also play a cru
  >"Remember to look up at the stars and not down at your feet." - *Stephen Hawking*
 
  ---
+ ## PHP
 > I want to loop through array in the first key of [2] and echo all the values.This works, but stops after three loops.I don't understand why it is stopping.
-  ```
+ ```
     for ($i = 0; $i < count($nt); $i++)
     {
         echo $nt[2][$i];
         echo "<br />";
     }
-  ```
-  [Click here for StackOverflowArticle](https://stackoverflow.com/questions/16928841/php-for-loop-from-array-stops-after-3-loops)
+ ```
+ [Click here for StackOverflowArticle](https://stackoverflow.com/questions/16928841/php-for-loop-from-array-stops-after-3-loops)
 
+ 
+## CSS
 ```
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
