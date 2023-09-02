@@ -9,28 +9,33 @@ My hobbies are *listening to music, exploring new places*. Of all my hobbies, tr
 ---
 ## Sports that are a must try!
 
-|Name|Reason|Avg play time|
+Sports are not only a source of entertainment and recreation but also play a crucial role in various aspects of our lives.Below is the list of few sports and the reasons why you must try them along with the average time that should be spent in a week for a particular sport.
+
+|Name|Reason to play|hours per week|
 |---|---|---|
 |Tennis|Cardiovascualr fitness|4-6 hours|
 |Hiking|Enjoy Nature|5-7 hours|
 |Yoga|Flexibility|2-4 hours|
+|Martial Arts|Self Defense|3-5 hours|
+
 
 ---
-## My favorite quotes
+## My favorite quotes 
  
- >To be or not to be, that is the question - *William ShakeSpeare*
+ >"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." - *Madam Curie*
 
- >To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment - *Ralph Waldo Emerson*
+ >"Remember to look up at the stars and not down at your feet." - *Stephen Hawking*
 
  ---
-```
-for ($i = 0; $i < count($nt); $i++)
-{
-    echo $nt[2][$i];
-    echo "<br />";
-}
-```
-[Click here for StackOverflowArticle](https://stackoverflow.com/questions/16928841/php-for-loop-from-array-stops-after-3-loops)
+> I want to loop through array in the first key of [2] and echo all the values.This works, but stops after three loops.I don't understand why it is stopping.
+    ```
+    for ($i = 0; $i < count($nt); $i++)
+    {
+        echo $nt[2][$i];
+        echo "<br />";
+    }
+    ```
+    [Click here for StackOverflowArticle](https://stackoverflow.com/questions/16928841/php-for-loop-from-array-stops-after-3-loops)
 
 ```
 body {
